@@ -8,7 +8,7 @@ Template generated service that includes, server stubs, clients and IaC
 This directory contains a generated repos for the service - {TEMPLATE_SERVICE_HYPHEN_NAME}
 
 - This repo was created using builder-hub from a starter template for service creation.
-- For more details on the starter template, see the [project on github](https://github.com/builder-hub/starter-service).
+- For more details on the starter template, see the [project on GitHub](https://github.com/builder-hub/starter-service).
 
 ## Package Structure
 

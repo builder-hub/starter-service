@@ -1,0 +1,12 @@
+[submodule "starter-service-models"]
+	path = starter-service-models
+	url = https://github.com/builder-hub/starter-service-models.git
+[submodule "starter-service-server"]
+	path = starter-service-server
+	url = https://github.com/builder-hub/starter-service-server.git
+[submodule "starter-service-kotlin-client"]
+	path = starter-service-kotlin-client
+	url = https://github.com/builder-hub/starter-service-kotlin-client.git
+[submodule "starter-infrastructure"]
+	path = starter-infrastructure
+	url = https://github.com/builder-hub/starter-infrastructure.git
